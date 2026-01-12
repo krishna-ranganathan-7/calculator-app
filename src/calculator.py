@@ -39,4 +39,6 @@ while True:
                 continue
             result = num1 / num2
             print("Result:", result)
+        print("Current stored result:", result)
+
 
