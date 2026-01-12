@@ -44,7 +44,9 @@ while True:
         result = 0
         print("🔄 Calculator reset. Result is now 0.")
     else:
-        print("❌ Invalid choice. Please select from 1 to 6.")
+        print("❌ Invalid choice. Please select only from 1 to 6.")
+
+print("👋 Exiting calculator. Goodbye!")
 
 
 
