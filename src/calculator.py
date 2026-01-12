@@ -43,6 +43,8 @@ while True:
     elif choice == "5":
         result = 0
         print("🔄 Calculator reset. Result is now 0.")
+    else:
+        print("❌ Invalid choice. Please select from 1 to 6.")
 
 
 
