@@ -38,7 +38,11 @@ while True:
                 print("❌ Cannot divide by zero.")
                 continue
             result = num1 / num2
-            print("Result:", result)
+        print("Result:", result)
         print("Current stored result:", result)
+    elif choice == "5":
+        result = 0
+        print("🔄 Calculator reset. Result is now 0.")
+
 
 
