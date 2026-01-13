@@ -8,6 +8,7 @@ while True:
     print("4. Divide")
     print("5. Reset")
     print("6. Exit")
+    print("===========================")
 
     choice = input("Choose an operation (1-6): ")
 
